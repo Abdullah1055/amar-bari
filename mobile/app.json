@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "আমার বাড়ি",
+    "slug": "amar-bari",
+    "scheme": "amarbari",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": { "package": "com.amarbari.app", "allowBackup": false },
+    "plugins": ["expo-router", "expo-secure-store"]
+  }
+}
